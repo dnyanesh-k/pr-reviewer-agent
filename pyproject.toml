@@ -1,0 +1,11 @@
+[project]
+name = "pr-reviewer-agent"
+version = "0.1.0"
+description = "PR reviewer agent for git"
+requires-python = ">=3.10,<3.15"
+dependencies = [
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
